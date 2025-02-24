@@ -11,7 +11,8 @@ This project analyzes the Kaggle Titanic dataset and predicts survival using a D
 - **R**, **ggplot2**, **caret**, **randomForest**
 
 ## 📊 Key Visuals
-![Decision Tree](docs/decision_tree.png)
+![image](https://github.com/user-attachments/assets/f3fb0ab0-df92-4e0b-bb3d-189d1283cccd)
+
 
 ## 📎 Resources
 - [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
