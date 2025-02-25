@@ -17,4 +17,4 @@ This project analyzes the Kaggle Titanic dataset and predicts survival using a D
 ## 📎 Resources
 - [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 - [Medium Blog Post](https://medium.com/@darianwashington8/predicting-titanic-survival-in-r-0c8b848eeb47)
-- [Portfolio Page](#) (Once updated)
+- [Portfolio Page](https://medium.com/@darianwashington8/predicting-titanic-survival-in-r-0c8b848eeb47) 
